@@ -18,4 +18,4 @@ def average_scores():
               
 print(average_scores())
                   
-
+input()
